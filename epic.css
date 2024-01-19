@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(45deg,#798600,#0a4553);
+ 
+
+}
+body{
+    position: relative;
+
+}
+
+
+
+.navbar-nav{
+    float:right;
+}
+#slide{
+ display: grid;
+ align-items: center;
+ justify-content:center;
+}
+h1{
+    text-align: center;
+}
